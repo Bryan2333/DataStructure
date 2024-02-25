@@ -1,0 +1,12 @@
+*
+/*
+
+!*/
+!*.c
+!*.h
+!*.cpp
+!*.hpp
+!*.gitignore
+!.clang-format
+!README.md
+!LICENSE
